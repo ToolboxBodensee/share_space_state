@@ -8,7 +8,7 @@ import urllib.request, json
 debug = True
 
 # define addresses
-UDP_IP = "217.91.187.203" # Public IP Address from Toolbox
+UDP_IP = "0.0.0.0" # Public IP Address from Toolbox
 UDP_PORT = 5138 # used port for notification
 
 # destinations:
